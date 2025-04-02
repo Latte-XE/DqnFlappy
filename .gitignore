@@ -49,7 +49,6 @@
 .venv/
 .vim/
 .vs/slnx.sqlite
-.vscode
 .webassets-cache
 /build/
 /dist/
