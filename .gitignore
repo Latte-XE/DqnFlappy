@@ -76,7 +76,6 @@ instance/
 pipenv/vendor/markupsafe/_speedups.c
 prime/
 pytype.cfg
-run/
 sdist/
 snap/
 stage/
